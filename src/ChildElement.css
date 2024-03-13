@@ -1,0 +1,17 @@
+.child-element {
+    background-color: whitesmoke;
+    color: black;
+    padding: 8px;
+    cursor: pointer;
+    border: 2px solid blue;
+    margin: 5px;
+  }
+
+.child-element:hover {
+    background-color: navy;
+  }
+  
+  .selected {
+    background-color: green;
+  }
+  

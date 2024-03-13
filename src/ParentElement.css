@@ -1,0 +1,30 @@
+.parent-element {
+    width: 150px;
+    height: 40px;
+    background-color: whitesmoke;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 2px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  
+  .parent-title {
+    color: black;
+    padding: 11px;
+    cursor: pointer;
+  }
+  
+  .parent-title:hover {
+    background-color: darkgray;
+  }
+
+  .expanded {
+    background-color: gray;
+  }
+  
+  .children-container {
+    margin-top: 5px;
+    padding-left: 10px;
+  }
+  
